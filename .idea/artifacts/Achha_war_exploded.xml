@@ -8,6 +8,7 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.primefaces:primefaces:6.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:${springframework-version}" />
         </element>
       </element>
       <element id="directory" name="META-INF">
